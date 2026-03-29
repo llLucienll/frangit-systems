@@ -62,68 +62,68 @@ function MailIcon() {
 
 const services = [
   {
-    title: 'Diagnostico tecnico',
+    title: 'Diagnostico técnico',
     description:
-      'Identificamos la causa real de la falla para que no gastes dinero a ciegas y sepas cual es la mejor solucion para tu equipo.',
+      'Identificamos la causa real de la falla para que no gastes dinero a ciegas y sepas cuál es la mejor solucion para tu equipo.',
   },
   {
     title: 'Mantenimiento preventivo y correctivo',
     description:
-      'Reducimos riesgos, corregimos problemas existentes y ayudamos a prolongar la vida util de tus equipos con intervenciones oportunas.',
+      'Reducimos riesgos, corregimos problemas existentes y ayudamos a prolongar la vida útil de tus equipos con intervenciones oportunas.',
   },
   {
-    title: 'Optimizacion de rendimiento',
+    title: 'Optimización de rendimiento',
     description:
-      'Mejoramos configuracion, limpieza y estabilidad para que el computador responda mejor en el trabajo, estudio o uso diario.',
+      'Mejoramos configuración, limpieza y estabilidad para que el computador responda mejor en el trabajo, estudio o uso diario.',
   },
   {
-    title: 'Soporte para pymes',
+    title: 'Soporte para PyMe',
     description:
-      'Brindamos acompanamiento tecnico a pequenas y medianas empresas que necesitan continuidad, orden y una atencion mas profesional.',
+      'Brindamos acompañamiento técnico a pequeñas y medianas empresas que necesitan continuidad, orden y una atención más profesional.',
   },
 ]
 
 const processSteps = [
   {
     step: '01',
-    title: 'Diagnostico inicial',
+    title: 'Diagnóstico inicial',
     description:
       'Evaluamos el equipo o requerimiento para identificar fallas, riesgos y necesidades reales.',
   },
   {
     step: '02',
-    title: 'Informe tecnico',
+    title: 'Informe técnico',
     description:
-      'Entregamos un diagnostico claro con hallazgos, estado general y recomendaciones priorizadas.',
+      'Entregamos un diagnóstico claro con hallazgos, estado general y recomendaciones priorizadas.',
   },
   {
     step: '03',
-    title: 'Propuesta de solucion',
+    title: 'Propuesta de solución',
     description:
-      'Presentamos una solucion con mano de obra, posibles repuestos y mejoras sugeridas.',
+      'Presentamos una solución con mano de obra, posibles repuestos y mejoras sugeridas.',
   },
   {
     step: '04',
-    title: 'Implementacion',
+    title: 'Implementación',
     description:
       'Ejecutamos el servicio aprobado y dejamos el equipo listo para su uso.',
   },
 ]
 
 const audiences = [
-  'Equipos estables que evitan interrupciones en la operacion diaria.',
+  'Equipos estables que evitan interrupciones en la operación diaria.',
   'Soluciones para quienes dependen de su computador para trabajar.',
   'Mejoramos el rendimiento y solucionamos fallas en tus equipos.',
 ]
 
 const serviceBenefits = [
   {
-    title: 'Diagnostico claro desde el inicio',
+    title: 'Diagnóstico claro desde el inicio',
     description:
-      'Sabes exactamente que tiene tu equipo antes de invertir en reparaciones.',
+      'Sabes exactamente qué tiene tu equipo antes de invertir en reparaciones.',
   },
   {
-    title: 'Recomendaciones tecnicas reales',
+    title: 'Recomendaciones técnicas reales',
     description: 'Soluciones adaptadas a tu caso, sin cosas innecesarias.',
   },
   {
@@ -131,54 +131,54 @@ const serviceBenefits = [
     description: 'Nada improvisado: cada paso tiene sentido.',
   },
   {
-    title: 'Mejor rendimiento, estabilidad y vida util del computador',
-    description: 'Equipos mas rapidos, seguros y confiables en el dia a dia.',
+    title: 'Mejor rendimiento, estabilidad y vida útil del computador',
+    description: 'Equipos mas rápidos, seguros y confiables en el día a día.',
   },
 ]
 
 const trustReasons = [
-  'Transparencia total en cada diagnostico',
-  'Recomendaciones basadas en tu necesidad real, no en vender mas',
+  'Transparencia total en cada diagnóstico',
+  'Recomendaciones basadas en tu necesidad real, no en incrementar ventas.',
   'Procesos organizados y profesionales',
-  'Prevencion como parte del servicio, no como extra',
-  'Atencion tanto a empresas como a usuarios particulares',
+  'Prevención como parte del servicio, no como extra',
+  'Atención tanto a empresas como a usuarios particulares',
 ]
 
 const faqs = [
   {
-    question: 'Que tipo de equipos revisan?',
+    question: '¿Que tipo de equipos revisan?',
     answer:
-      'Realizamos revision de equipos de computo tanto de escritorio como portatiles, evaluando componentes de hardware y software para identificar fallas, problemas de rendimiento o posibles mejoras.',
+      'Realizamos revisión de equipos de computo tanto de escritorio como portátiles, evaluando componentes de hardware y software para identificar fallas, problemas de rendimiento o posibles mejoras.',
   },
   {
-    question: 'Atienden solo empresas o tambien personas particulares?',
+    question: '¿Atienden únicamente a  empresas o también personas particulares?',
     answer:
       'Brindamos servicio tanto a empresas como a usuarios particulares. Nos adaptamos a cada necesidad, desde equipos de uso personal hasta entornos empresariales.',
   },
   {
-    question: 'Como funciona el diagnostico tecnico?',
+    question: '¿Cómo funciona el diagnóstico técnico?',
     answer:
-      'Uno de nuestros tecnicos se pondra en contacto para evaluar tu caso, ya sea de forma remota o presencial, dependiendo del tipo de requerimiento. Durante el diagnostico analizamos el estado del equipo, identificamos posibles fallas o mejoras y entregamos un informe claro con las recomendaciones necesarias.',
+      'Uno de nuestros técnicos se pondra en contacto para evaluar tu caso, ya sea de forma remota o presencial, dependiendo del tipo de requerimiento. Durante el diagnóstico analizamos el estado del equipo, identificamos posibles fallas o mejoras y entregamos un informe claro con las recomendaciones necesarias.',
   },
   {
-    question: 'El diagnostico tiene costo?',
+    question: '¿El diagnóstico tiene costo?',
     answer:
-      'Si, el diagnostico tecnico tiene un costo que varia segun la cantidad de equipos a revisar. Posteriormente, si se requiere, se entrega una propuesta comercial con las soluciones recomendadas, incluyendo mano de obra y posibles repuestos, la cual se cotiza de manera independiente al diagnostico.',
+      'Sí, el diagnóstico técnico tiene un costo que varia segun la cantidad de equipos a revisar. Posteriormente, si se requiere, se entrega una propuesta comercial con las soluciones recomendadas, incluyendo mano de obra y posibles repuestos, la cual se cotiza de manera independiente al diagnóstico.',
   },
   {
-    question: 'Cuanto tiempo tarda el servicio?',
+    question: '¿Cuánto tiempo tarda el servicio?',
     answer:
-      'El tiempo de diagnostico puede variar dependiendo del estado y la cantidad de equipos. Sin embargo, generalmente se realiza en el menor tiempo posible para no afectar la operacion del usuario o la empresa.',
+      'El tiempo de diagnóstico puede variar dependiendo del estado y la cantidad de equipos. Sin embargo, de forma general, se realiza en el menor tiempo posible para no afectar la operación del usuario o la empresa.',
   },
   {
-    question: 'Como puedo solicitar una revision?',
+    question: '¿Cómo puedo solicitar una revision?',
     answer:
-      'Puedes contactarnos a traves de nuestras redes sociales o medios de contacto disponibles, y uno de nuestros tecnicos te atendera para coordinar la revision segun tu necesidad.',
+      'Puedes contactarnos a través de nuestras redes sociales o medios de contacto disponibles, y uno de nuestros técnicos te atenderá para coordinar la revisión según tu necesidad.',
   },
   {
-    question: 'Por que elegir Frangit Systems?',
+    question: '¿Por qué elegir Frangit Systems?',
     answer:
-      'Porque ofrecemos un diagnostico claro, soluciones reales y un enfoque profesional orientado a mejorar el rendimiento y la vida util de tus equipos.',
+      'Porque ofrecemos un diagnóstico claro, soluciones reales y un enfoque profesional orientado a mejorar el rendimiento y la vida útil de tus equipos.',
   },
 ]
 
@@ -262,9 +262,8 @@ function App() {
                 afecten tu trabajo o tu empresa.
               </h1>
               <p className="hero-copy__lead">
-                Con experiencia en entornos empresariales y atencion a usuarios
-                particulares, ofrecemos soluciones claras, seguras y adaptadas a cada
-                necesidad.
+                Ofrecemos soluciones claras, seguras y adaptadas a cada necesidad. 
+                Contamos con experiencia en entornos empresariales y atencion a usuarios particulares.
               </p>
 
               <div className="hero-actions">
@@ -273,7 +272,7 @@ function App() {
                   className="button button--primary"
                   onClick={() => handleNavigate('contacto')}
                 >
-                  Solicitar diagnostico
+                  Solicitar diagnóstico
                 </button>
                 <button
                   type="button"
@@ -286,8 +285,8 @@ function App() {
 
               <ul className="hero-metrics" aria-label="Fortalezas principales">
                 <li>
-                  <strong>Diagnostico claro</strong>
-                  <span>Identificamos exactamente que tiene tu equipo y que necesita</span>
+                  <strong>Diagnóstico claro</strong>
+                  <span>Identificamos exactamente qué tiene tu equipo y qué necesita.</span>
                 </li>
                 <li>
                   <strong>Sin sobrecostos</strong>
@@ -319,8 +318,8 @@ function App() {
           </section>
 
           <PageFrame
-            eyebrow="A quien ayudamos"
-            title="Soluciones pensadas para quienes dependen de su equipo"
+            eyebrow="A quién ayudamos"
+            title="Soluciones pensadas para quienes dependen de su equipo."
             description="En Frangit Systems trabajamos tanto con empresas como con usuarios particulares que necesitan equipos confiables, estables y listos para trabajar sin interrupciones."
           >
             <ul className="audience-list">
@@ -355,30 +354,27 @@ function App() {
       return (
         <PageFrame
           eyebrow="Sobre nosotros"
-          title="Soporte tecnico con enfoque profesional"
+          title="Soporte técnico con enfoque profesional"
           accent
         >
           <div className="about-grid">
             <div className="about-copy">
               <p>
-                En Frangit Systems brindamos soluciones tecnologicas con un enfoque
-                profesional y preventivo, ayudando a empresas y usuarios a mantener sus
-                equipos funcionando de forma estable y segura.
+                En Frangit Systems brindamos soluciones tecnológicas con un enfoque profesional y preventivo, ayudando
+                 a empresas y usuarios a mantener sus equipos funcionando de forma estable y segura.
               </p>
               <p>
-                Nuestra experiencia en soporte tecnico y entornos corporativos nos permite
-                entender rapidamente cada necesidad y ofrecer soluciones claras, sin
-                complicaciones innecesarias.
+                Nuestra experiencia en soporte técnico y entornos
+                corporativos nos permite entender rápidamente cada necesidad y ofrecer soluciones claras, sin complicaciones innecesarias.
               </p>
               <p>
-                Nos enfocamos en una comunicacion directa y transparente, para que cada
-                diagnostico y recomendacion sea facil de entender y tomar decisiones con
-                confianza.
+                Nos enfocamos en una comunicacion directa y transparente, para que cada diagnóstico
+                 y recomendación sea fácil de entender, para así tomar decisiones con confianza.
               </p>
             </div>
 
             <div>
-              <p className="eyebrow eyebrow--small">Que puedes esperar de Frangit Systems?</p>
+              <p className="eyebrow eyebrow--small">¿Qué puedes esperar de Frangit Systems?</p>
               <ul className="audience-list audience-list--compact">
                 {serviceBenefits.map((item) => (
                   <li key={item.title}>
@@ -406,8 +402,8 @@ function App() {
       return (
         <PageFrame
           eyebrow="Servicios principales"
-          title="Una oferta tecnica pensada para resolver hoy y prevenir problemas despues."
-          description="La meta no es solo reparar un equipo, sino mejorar su estado general y ayudarte a tomar mejores decisiones tecnologicas."
+          title="Una oferta técnica pensada para resolver hoy y prevenir problemas después."
+          description="La meta no es solo reparar un equipo, sino mejorar su estado general y ayudarte a tomar mejores decisiones tecnológicas"
         >
           <div className="service-grid">
             {services.map((service) => (
@@ -426,7 +422,7 @@ function App() {
         <PageFrame
           eyebrow="Preguntas frecuentes"
           title="Lo que necesitas saber"
-          description="Queremos que tomes una decision con confianza. Estas son las respuestas a las dudas mas frecuentes de nuestros clientes."
+          description="Queremos que tomes una decisión con confianza. Estas son las respuestas a las dudas más frecuentes de nuestros clientes."
         >
           <div className="faq-list">
             {faqs.map((item) => (
@@ -443,8 +439,8 @@ function App() {
     return (
       <PageFrame
         eyebrow="Contacto"
-        title="Cuentanos que problema tiene tu equipo"
-        description="Cuentanos que esta pasando y te damos una orientacion clara sobre lo que necesita tu equipo. Puedes escribirnos por WhatsApp para una respuesta mas rapida, o contactarnos por nuestros otros canales."
+        title="Cuéntanos qué problema tiene tu equipo"
+        description="Cuéntanos qué está pasando y te damos una orientacion clara sobre lo que necesita tu equipo. Puedes escribirnos por WhatsApp para una respuesta más rapida, o contactarnos por nuestros otros canales."
       >
         <div className="contact-card">
           <div className="hero-actions">
