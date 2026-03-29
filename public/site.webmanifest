@@ -1,0 +1,16 @@
+{
+  "name": "Frangit Systems",
+  "short_name": "Frangit",
+  "description": "Diagnostico tecnico, mantenimiento profesional y optimizacion de equipos de computo.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#11151c",
+  "theme_color": "#11151c",
+  "icons": [
+    {
+      "src": "/brand/logo-main.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
