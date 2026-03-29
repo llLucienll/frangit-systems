@@ -482,11 +482,18 @@ function App() {
   return (
     <main className="page-shell">
       <header className="topbar">
-        <img
-          className="topbar__logo"
-          src="/brand/logo-main.png"
-          alt="Frangit Systems"
-        />
+        <button
+          type="button"
+          className="topbar__logo-button"
+          onClick={() => handleNavigate('inicio')}
+          aria-label="Ir a la pagina de inicio"
+        >
+          <img
+            className="topbar__logo"
+            src="/brand/logo-main.png"
+            alt="Frangit Systems"
+          />
+        </button>
         <nav className="topbar__nav" aria-label="Secciones principales">
           {pages.map((page) => (
             <button
