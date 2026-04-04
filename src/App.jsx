@@ -183,7 +183,7 @@ const faqs = [
 ]
 
 const whatsappLeadUrl =
-  'https://wa.me/573194065656?text=Hola%2C%20estoy%20interesado%20en%20el%20servicio%20de%20diagn%C3%B3stico%20de%20equipos%20de%20Frangit%20Systems.%20%C2%BFPodr%C3%ADan%20brindarme%20m%C3%A1s%20informaci%C3%B3n%3F'
+  'https://wa.me/573244109681?text=Hola,%20estoy%20interesado%20en%20el%20servicio%20de%20diagnostico%20de%20equipos%20de%20Frangit%20Systems.%20%C2%BFPodrian%20brindarme%20mas%20informacion%3F'
 
 const pages = [
   { key: 'inicio', label: 'Inicio' },
